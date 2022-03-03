@@ -1,0 +1,7 @@
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\bin\Debug\hada.exe.config
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\bin\Debug\hada.exe
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\bin\Debug\hada.pdb
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\obj\Debug\hada.csproj.AssemblyReference.cache
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\obj\Debug\hada.csproj.CoreCompileInputs.cache
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\obj\Debug\hada.exe
+C:\Users\vdmcl\Desktop\hada-p2\hada-p2\obj\Debug\hada.pdb
